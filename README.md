@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  No description available for this project.
+  name: studio5 version: 1.0 type: Repository author: VarshuAi description: >   No description available for this project. primary_tech: Code
 primary_tech: Code
 ```
 
